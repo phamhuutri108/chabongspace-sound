@@ -1,4 +1,9 @@
-# Cha Bong Space
+# Chà Bông Space — Sound
+
+> GitHub repository: `phamhuutri108/chabongspace-sound`
+> Local app directory: `chabongspace-sound`
+> Cloudflare Pages project: `chabongspace`
+
 
 A browser-based audio canvas that listens to guitar notes, paints watercolor blooms,
 shows a front-camera overlay, and records the performance as a WebM video.
